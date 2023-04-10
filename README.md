@@ -18,9 +18,9 @@ Applications using the NodeMCU Devkit 1 ESP32 board.
 ### Full Application (Arduino IDE + Blynk)
   using sensors to monitor conditions in a crop.
   
-  -Temperature and air humidity (DHT11)
-  -Soil moisture (YL69)
-  -Rain (MHRD)
-  -Luminosity (LDR)
-  -Relay
-  -Solenoid valve
+  - Temperature and air humidity (DHT11)
+  - Soil moisture (YL69)
+  - Rain (MHRD)
+  - Luminosity (LDR)
+  - Relay
+  - Solenoid valve
